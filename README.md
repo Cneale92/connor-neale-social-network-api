@@ -35,8 +35,6 @@ Lastly, you'll also need to install the API client Insomnia, which you can do by
 
 Once all of the steps in [Installation](#installation) have been completed, you can optionally seed the database by entering: `node utils/seed.js`. Then to start the server, enter: `node index.js`
 
-If everything was installed and run correctly, you should be able to test the API routes using Insomnia now. Check the [walkthrough video here to see how you can view, add, update or delete data using these routes.](https://drive.google.com/file/d/1OnQCVO41VEYPSUiV6ilflCNClgGyriBd/view?usp=sharing)
-            
 ## License
             
 MIT License
