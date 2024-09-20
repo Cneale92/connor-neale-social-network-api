@@ -9,7 +9,7 @@ I developed this application to provide a straightforward way for users to inter
 
 ### Video walkthrough showing application functionality:
 
-To view a video walkthrough of how to seed some user data, run the server and access the data via its API routes using Insomnia, watch [a video demonstration here]. 
+To view a video walkthrough of how to seed some user data, run the server and access the data via its API routes using Insomnia, watch [a video demonstration here](https://drive.google.com/file/d/1NMzia4Aty_-QH4ALhd_eCviCX3hvMrnJ/view?usp=drive_link). 
       
 ## Table of Contents
             
