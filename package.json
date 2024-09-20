@@ -1,0 +1,21 @@
+{
+  "name": "connor-neale-social-network-api",
+  "version": "1.0.0",
+  "description": "This is a repository containing the completed week 18 'Social Network API' challenge.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "seed": "node utils/seed"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.11",
+    "express": "^4.17.1",
+    "mongoose": "^8.0.0",
+    "validator": "^13.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
