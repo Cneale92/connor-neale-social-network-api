@@ -7,12 +7,10 @@ This project is an API for a social network web application that allows users to
 
 I developed this application to provide a straightforward way for users to interact in a simulated social media environment by sharing thoughts, reacting to them, and adding or removing friends. 
 
-
 ### Video walkthrough showing application functionality:
 
 To view a video walkthrough of how to seed some user data, run the server and access the data via its API routes using Insomnia, watch [a video demonstration here]. 
-
-            
+      
 ## Table of Contents
             
 - [Installation](#installation)
@@ -29,8 +27,7 @@ Once cloned, you will need to navigate to the project's folder in your terminal 
 Next, you will need MongoDB installed on your computer to initialise the database. [Visit MongoDB's website for links to download and installation instructions.](https://www.mongodb.com/)
 
 Lastly, you'll also need to install the API client Insomnia, which you can do by [visiting their website here](https://insomnia.rest/). 
-
-            
+     
 ## Usage
 
 Once all of the steps in [Installation](#installation) have been completed, you can optionally seed the database by entering: `node utils/seed.js`. Then to start the server, enter: `node index.js`
@@ -59,7 +56,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
             
-
 ## Questions
             
 If you have any questions, please reach out at either of the following:
